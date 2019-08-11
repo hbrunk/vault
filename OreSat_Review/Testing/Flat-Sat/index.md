@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: Testing
     link: /OreSat_Review/Testing/
-    repo: vault
+    repo: /vault
     defcolor: red
 ---
 

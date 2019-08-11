@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: System Budgets & Analyses
     link: /OreSat_Review/Design/System_Budgets_&_Analyses/
-    repo: vault
+    repo: /vault
     defcolor: red
 ---
 

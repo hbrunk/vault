@@ -4,7 +4,7 @@ layout: default
 nav_data:
   - name: Design
     link: /OreSat_Review/Design/
-    repo: vault
+    repo: /vault
     defcolor: red
 ---
 
