@@ -1,0 +1,9 @@
+- name: Design
+  link: /OreSat_Review/Design/
+  defcolor: black
+- name: Cirrus Flux Camera
+  link: /OreSat_Review/Design/Payload/Cirrus_Flux_Camera/
+  defcolor: blue
+- name: OreSat Live Camera
+  link: /OreSat_Review/Design/Payload/OreSat_Live_Camera/
+  defcolor: blue

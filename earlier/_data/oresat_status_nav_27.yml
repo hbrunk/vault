@@ -1,0 +1,9 @@
+- name: Design
+  link: /OreSat_Review/Design/
+  defcolor: black
+- name: Solar Cells
+  link: /OreSat_Review/Design/Power_System/Solar_Cells/
+  defcolor: blue
+- name: Batteries
+  link: /OreSat_Review/Design/Power_System/Batteries/
+  defcolor: blue

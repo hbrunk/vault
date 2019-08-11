@@ -18,10 +18,10 @@ nav_data:
     link: /OreSat_Review/Design/Power_System/
     defcolor: blue
   - name: Payload
-    link: /OreSat_Review/Design/Payload/
+    link: /Payload/
     defcolor: blue
   - name: Ground Equipment
-    link: /OreSat_Review/Design/Ground_Equipment/
+    link: /Ground_Equipment/
     defcolor: blue
   - name: System Budgets & Analyses
     link: /OreSat_Review/Design/System_Budgets_&_Analyses/

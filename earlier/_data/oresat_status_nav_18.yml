@@ -1,0 +1,9 @@
+- name: C&DH
+  link: /OreSat_Review/Design/C&DH/
+  defcolor: black
+- name: Turnstile Antenna
+  link: /OreSat_Review/Design/C&DH/Antennas/Turnstile_Antenna/
+  defcolor: blue
+- name: DxWifi Antenna
+  link: /OreSat_Review/Design/C&DH/Antennas/DxWifi_Antenna/
+  defcolor: blue
