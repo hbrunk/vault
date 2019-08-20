@@ -3,7 +3,7 @@ title: OreSat Orbit
 layout: default
 nav_data:
   - name: Operations
-    link: /OreSat_Review/Operations/
+    link: /github_pages/OreSat_Review/Operations/
     repo: /vault
     defcolor: red
 ---

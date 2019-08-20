@@ -3,7 +3,7 @@ title: Command Formats
 layout: default
 nav_data:
   - name: Commands
-    link: /OreSat_Review/Design/C&DH/Commands/
+    link: /github_pages/OreSat_Review/Design/C&DH/Commands/
     repo: /vault
     defcolor: red
 ---
